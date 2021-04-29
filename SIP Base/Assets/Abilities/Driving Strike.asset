@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13f67a88a59d3a84c8057a222ed7aa7e, type: 3}
+  m_Name: Driving Strike
+  m_EditorClassIdentifier: 
+  AbilityName: Driving Strike
+  abilitySprite: {fileID: 0}
+  abilitySound: {fileID: 0}
+  aBaseCoolDown: 1
+  StartTime: 0.1
+  SpeedWeight: 5
+  PowerWeight: 0
+  TechWeight: 0
+  DashingTime: 0.25
